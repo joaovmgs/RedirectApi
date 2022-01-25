@@ -1,0 +1,1 @@
+{"version":3,"file":"FirstUser.js","sourceRoot":"","sources":["../../../database/seeders/FirstUser.ts"],"names":[],"mappings":";;;;;AAAA,uFAAkD;AAClD,iFAAmC;AAGnC,MAAqB,eAAgB,SAAQ,gBAAU;IAC9C,KAAK,CAAC,GAAG;QACd,MAAM,cAAI,CAAC,MAAM,CAAC;YAChB,OAAO,EAAE,kBAAkB;YAC3B,UAAU,EAAE,QAAQ;YACpB,MAAM,EAAE,MAAM;YACd,SAAS,EAAE,QAAQ;SACpB,CAAC,CAAC;IACL,CAAC;CACF;AATD,kCASC"}
