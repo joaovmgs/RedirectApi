@@ -7,7 +7,9 @@
     "build": "node ace build --production",
     "start": "node server.js",
     "lint": "eslint . --ext=.ts",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "batata": "npm i,
+               npm run build"
   },
    "engines" : { 
     "node" : "14.18.0" 
